@@ -1,0 +1,12 @@
+name: StressTest
+title: StressTest
+username:
+account: mathu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2170319
+bundleId: 3075888
+url: https://mathu.shinyapps.io/StressTest/
+when: 1588061996.5668
+asMultiple: FALSE
+asStatic: FALSE
